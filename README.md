@@ -54,7 +54,7 @@ I work on both front-end and back-end, and enjoy building everything from intera
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/prakash770405)
-- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
+- [LinkedIn](www.linkedin.com/in/surya-prakash-singh-527844297) <!-- Add your LinkedIn URL here -->
 
 ---
 
