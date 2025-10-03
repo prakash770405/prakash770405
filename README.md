@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Prakash!
 
-<!--
-**prakash770405/prakash770405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm an **MCA graduate** and an aspiring **Full Stack Developer** passionate about creating robust, scalable web applications. As a fresher, I love learning new technologies and tackling challenging problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Profession
+
+**Full Stack Developer | MCA Graduate**
+
+I am actively seeking opportunities to contribute my skills in web development, software engineering, and database management. My goal is to build impactful solutions that deliver great user experiences.
+
+---
+
+## 🛠️ Top Skills
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, SQL
+- **Programming Languages:** C, Java
+
+I work on both front-end and back-end, and enjoy building everything from interactive UIs to powerful APIs.
+
+---
+
+## 🌟 Favorite Project
+
+### UserHub Manager
+
+**UserHub Manager** is a web-based application for efficient user management.  
+**Key Features:**
+- User registration & authentication
+- CRUD operations for user profiles
+- Role-based access control (admin/user)
+- Search and filter functionality
+- Responsive UI (HTML, CSS, JavaScript)
+- RESTful API (Node.js & Express)
+- Database management (MongoDB & SQL)
+
+<!-- Add your project link below if available -->
+[Explore UserHub Manager](#)
+
+---
+
+## 📈 What I’m Working On
+
+- Building more full-stack projects
+- Learning new frameworks & libraries
+- Exploring open source contributions
+
+---
+
+## 📫 Connect with Me
+
+- [GitHub](https://github.com/prakash770405)
+- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
+
+---
+
+**Let’s connect and build something amazing together!**
