@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prakash!
+# 👋 Hi, I'm Surya Prakash!
 
 Welcome to my GitHub profile!  
 I'm an **MCA graduate** and an aspiring **Full Stack Developer** passionate about creating robust, scalable web applications. As a fresher, I love learning new technologies and tackling challenging problems.
@@ -30,9 +30,8 @@ I work on both front-end and back-end, and enjoy building everything from intera
 
 **UserHub Manager** is a web-based application for efficient user management.  
 **Key Features:**
-- User registration & authentication
+- User interface 
 - CRUD operations for user profiles
-- Role-based access control (admin/user)
 - Search and filter functionality
 - Responsive UI (HTML, CSS, JavaScript)
 - RESTful API (Node.js & Express)
