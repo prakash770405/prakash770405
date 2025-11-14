@@ -26,9 +26,9 @@ I work on both front-end and back-end, and enjoy building everything from intera
 
 ## 🌟 Favorite Project
 
-### School Database Manager (demomongo)
+### School_Records (demomongo)
 
-**School Database Manager** is a multi-role web application for managing student records, featuring separate, secure portals for administrators and students.  
+**School_Records** is a multi-role web application for managing student records, featuring separate, secure portals for administrators and students.  
 **Key Features:**
 - **Dual-Role Authentication:** Secure login, signup, and session management for both Admins and Students using Passport.js.
 - **Admin CRUD Operations:** Admins have full control to create, read, update, and delete all student profiles.
@@ -38,7 +38,7 @@ I work on both front-end and back-end, and enjoy building everything from intera
 - **Database Management:** Utilizes MongoDB with Mongoose for robust data modeling and persistence.
 
 <!-- Add your project link below if available -->
-[Explore School Database Manager](http://github.com/prakash770405/School_Records.git)
+[Explore School_Records](http://github.com/prakash770405/School_Records.git)
 
 ---
 
