@@ -26,19 +26,19 @@ I work on both front-end and back-end, and enjoy building everything from intera
 
 ## 🌟 Favorite Project
 
-### UserHub Manager
+### School Database Manager (demomongo)
 
-**UserHub Manager** is a web-based application for efficient user management.  
+**School Database Manager** is a multi-role web application for managing student records, featuring separate, secure portals for administrators and students.  
 **Key Features:**
-- User interface 
-- CRUD operations for user profiles
-- Search and filter functionality
-- Responsive UI (HTML, CSS, JavaScript)
-- RESTful API (Node.js & Express)
-- Database management (MongoDB & SQL)
+- **Dual-Role Authentication:** Secure login, signup, and session management for both Admins and Students using Passport.js.
+- **Admin CRUD Operations:** Admins have full control to create, read, update, and delete all student profiles.
+- **Student Profile Management:** Students can log in to view and edit their own personal information and password.
+- **Responsive UI:** The user interface is server-rendered using EJS and styled with Bootstrap 5 for a clean, modern look on all devices.
+- **Backend Logic:** Built with Node.js & Express.js to handle routing, business logic, and middleware.
+- **Database Management:** Utilizes MongoDB with Mongoose for robust data modeling and persistence.
 
 <!-- Add your project link below if available -->
-[Explore UserHub Manager](https://github.com/prakash770405/UserHub_Manager)
+[Explore School Database Manager](http://github.com/prakash770405/School_Records.git)
 
 ---
 
