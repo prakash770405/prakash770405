@@ -15,7 +15,7 @@ I am actively seeking opportunities to contribute my skills in web development, 
 
 ## 🛠️ Top Skills
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - **Backend:** Node.js, Express
 - **Database:** MongoDB, SQL
 - **Programming Languages:** C, Java
