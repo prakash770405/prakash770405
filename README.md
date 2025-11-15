@@ -24,7 +24,7 @@ I work on both front-end and back-end, and enjoy building everything from intera
 
 ---
 
-## 🌟 Favorite Project
+## 🌟 Favorite Projects
 
 ### School_Records (demomongo)
 
@@ -40,11 +40,28 @@ I work on both front-end and back-end, and enjoy building everything from intera
 <!-- Add your project link below if available -->
 [Explore School_Records](http://github.com/prakash770405/School_Records.git)
 
+
+### Wanderlust 
+
+Wanderlust is a full-stack web application built with Node.js, Express, and MongoDB, designed as a clone of a popular vacation rental website.
+
+**Key Features:**
+
+*   **Listings CRUD Operations**: Provides full functionality for users to create, read, update, and delete property listings.
+*   **Integrated Review System**: Allows users to post new reviews and view existing ones on each listing's detail page.
+*   **Dynamic UI Rendering**: The user interface is server-rendered using EJS and styled with custom CSS for a clean, responsive design.
+*   **Backend Logic**: Built with Node.js & Express.js to handle routing, RESTful APIs, and middleware.
+*   **Database Management**: Utilizes MongoDB with Mongoose for robust data modeling and persistence of listings and reviews.
+*   **Robust Error Handling**: Implements custom middleware and async wrappers for graceful error management and user-friendly error pages.
+
+[Explore Wanderlust][http://github.com/prakash770405/Wanderlust]
+
 ---
 
 ## 📈 What I’m Working On
 
-- Building more full-stack projects
+- Currently working on "Wanderlust" project
+- Also building more full-stack projects
 - Learning new frameworks & libraries
 - Exploring open source contributions
 
