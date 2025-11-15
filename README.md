@@ -26,7 +26,7 @@ I work on both front-end and back-end, and enjoy building everything from intera
 
 ## 🌟 Favorite Projects
 
-###(1) School_Records 
+### School_Records 
 
 **School_Records** is a multi-role web application for managing student records, featuring separate, secure portals for administrators and students.  
 **Key Features:**
@@ -41,7 +41,9 @@ I work on both front-end and back-end, and enjoy building everything from intera
 [Explore School_Records](http://github.com/prakash770405/School_Records.git)
 
 
-###(2) Wanderlust 
+
+
+### Wanderlust 
 
 **Wanderlust** is a full-stack web application built with Node.js, Express, and MongoDB, designed as a clone of a popular vacation rental website.
 **Key Features:**
