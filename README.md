@@ -56,7 +56,9 @@ I'm an **MCA graduate** and an aspiring **Full Stack Developer** passionate abou
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/prakash770405)
-- [LinkedIn](https://www.linkedin.com/in/surya-prakash-singh-527844297/) <!-- Add your LinkedIn URL here -->
+- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryazzz642@gmail.com) 
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakash_00030)
+-  [LinkedIn](https://www.linkedin.com/in/surya-prakash-singh-527844297/) <!-- Add your LinkedIn URL here -->
 
 ---
 
