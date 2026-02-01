@@ -12,20 +12,20 @@ I'm an **MCA graduate** and an aspiring **Full Stack Developer** passionate abou
 
 ## 🌟 Favorite Projects
 
-### School_Records_v2 
+### School_Records_v2
 
-**School_Records** is a multi-role web application for managing student records, featuring separate, secure portals for administrators and students.  
+**School_Records_v2** is a secure, multi-role school management web application with separate portals for Administrators and Students.
 **Key Features:**
-- **Dual-Role Authentication:** Secure login, signup, and session management for both Admins and Students using Passport.js.
-- **Admin CRUD Operations:** Admins have full control to create, read, update, and delete all student profiles.
-- **Student Profile Management:** Students can log in to view and edit their own personal information and password.
-- **Responsive UI:** The user interface is server-rendered using EJS and styled with Bootstrap 5 for a clean, modern look on all devices.
-- **Backend Logic:** Built with Node.js & Express.js to handle routing, business logic, and middleware.
-- **Database Management:** Utilizes MongoDB with Mongoose for robust data modeling and persistence.
+* **Dual-Role Authentication:** JWT-based authentication for Admin and Student accounts.
+* **Admin CRUD Operations:** Admins can create, view, update, and delete student records, including profile images and academic details.
+* **Student Portal:** Students can log in to view their own data and update personal information and passwords.
+* **Role-Based Access Control:** Students can access only their own records; Admins have full system access.
+* **Responsive UI:** Server-rendered EJS views styled with Bootstrap 5 for mobile and desktop compatibility.
+* **Backend Architecture:** Node.js and Express.js with middleware for authentication, validation, and cache control.
+* **Database Management:** MongoDB with Mongoose for structured schemas and data persistence.
 
 <!-- Add your project link below if available -->
 [Explore School_Records](https://github.com/prakash770405/School_Records_v2)
-
 
 
 
@@ -44,6 +44,13 @@ I'm an **MCA graduate** and an aspiring **Full Stack Developer** passionate abou
 
 ---
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prakash770405&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
+
 ## 📈 What I’m Working On
 
 - Currently working on "Wanderlust" project
@@ -55,10 +62,10 @@ I'm an **MCA graduate** and an aspiring **Full Stack Developer** passionate abou
 
 ## 📫 Connect with Me
 
-- [GitHub](https://github.com/prakash770405)
 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryazzz642@gmail.com) 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakash_00030)
--  [LinkedIn](https://www.linkedin.com/in/surya-prakash-singh-527844297/) <!-- Add your LinkedIn URL here -->
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-singh-527844297/)
+
 
 ---
 
