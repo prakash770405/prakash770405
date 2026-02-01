@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Surya Prakash!
+# 👋 Hi, I'm Surya Prakash Singh!
 
 Welcome to my GitHub profile!  
 I'm an **MCA graduate** and an aspiring **Full Stack Developer** passionate about creating robust, scalable web applications. As a fresher, I love learning new technologies and tackling challenging problems.
@@ -29,6 +29,7 @@ I'm an **MCA graduate** and an aspiring **Full Stack Developer** passionate abou
 
 
 
+
 ### Wanderlust 
 
 **Wanderlust** is a full-stack web application built with Node.js, Express, and MongoDB, designed as a clone of a popular vacation rental website.
@@ -46,14 +47,14 @@ I'm an **MCA graduate** and an aspiring **Full Stack Developer** passionate abou
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prakash770405&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=prakash770405&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 
 ---
 
 ## 📈 What I’m Working On
 
-- Currently working on "Wanderlust" project
+- Currently working on "School_records_v2" project
 - Also building more full-stack projects
 - Learning new frameworks & libraries
 - Exploring open source contributions
