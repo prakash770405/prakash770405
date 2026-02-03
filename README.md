@@ -43,12 +43,6 @@ I'm an **MCA graduate** and an aspiring **Full Stack Developer** passionate abou
 
 [Explore Wanderlust](https://github.com/prakash770405/Wanderlust)
 
----
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prakash770405&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
-
 
 ---
 
